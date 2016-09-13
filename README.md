@@ -1,5 +1,7 @@
 # {{ cookiecutter.project_name }}
 
+TODO:  This isn't finished... I need to copy over a C++ project template here (from cookiecutter ideally) and add in wiring pi and have it do a blink light and also post the Wiring diagram and schematic.  
+
 {{ cookiecutter.project_short_description}}
 
 ## Building From Source
